@@ -1,6 +1,7 @@
 # Visual-Explainability-under-Distribution-Shifts
 Uncertainty-Aware Subset Selection for Robust Visual Explainability under Distribution Shifts
 https://openaccess.thecvf.com/content/WACV2026/papers/Gupta_Uncertainty-Aware_Subset_Selection_for_Robust_Visual_Explainability_under_Distribution_Shifts_WACV_2026_paper.pdf
+https://arxiv.org/abs/2512.08445
 
 # How to Run
 
